@@ -1,3 +1,4 @@
+http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_A
 #include <iostream>
 #include <iomanip>
 
