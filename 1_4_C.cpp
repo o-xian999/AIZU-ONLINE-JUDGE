@@ -1,3 +1,5 @@
+//http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_C/
+
 #include <iostream>
 #include <string>
 using namespace std;

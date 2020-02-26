@@ -1,3 +1,5 @@
+//http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_D
+
 #include <iostream>
 #include <vector>
 #include <algorithm>

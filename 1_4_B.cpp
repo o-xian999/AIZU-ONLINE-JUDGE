@@ -1,3 +1,5 @@
+//http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_B
+
 #include <iostream>
 //using the value of π
 #include <bits/stdc++.h>
