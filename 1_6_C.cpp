@@ -15,10 +15,10 @@ int main(){
   for(int i = 0; i < n; i++){
     int b, f, r, v;
     cin >> b >> f >> r >> v;
-    if(b == 1) one[f - 1][r - 1] = v;
-    if(b == 2) two[f - 1][r - 1] = v;
-    if(b == 3) three[f - 1][r - 1] = v;
-    if(b == 4) four[f - 1][r - 1] = v;
+    if(b == 1) one[f - 1][r - 1] += v;
+    if(b == 2) two[f - 1][r - 1] += v;
+    if(b == 3) three[f - 1][r - 1] += v;
+    if(b == 4) four[f - 1][r - 1] += v;
   }
 
 
